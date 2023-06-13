@@ -1,9 +1,13 @@
 # Golds Gym Fitness App
 
-Preview [Golds Gym](https://towkirdev-golds-gym.netlify.app/).
+Preview [Golds Gym Fitness App](https://towkirdev-golds-gym.netlify.app/).
 
-* TextUtils gives you a way to analyze your text quickly and efficiently.
+* A Modern React 18 Fitness Exercises App
 
-* TextUtils is a free character counter tool that provides instant character count & word count statistics for a given text. TextUtils reports the number of words and characters. Thus it is suitable for writing text with a word/ character limit.
+* With the functionality to choose exercise categories and specific muscle groups.
 
-* This word counter software works in any web browser such as Chrome, Firefox, Internet Explorer, Safari, or Opera. It suits to count characters in Facebook, blogs, books, excel documents, pdf documents, essays, etc.
+* Browse more than 1000 exercises with practical examples.
+
+* Pagination, Rapid API, and Exercise Details pulling related videos from youtube.
+
+* Displaying similar target muscle exercises and similar equipment exercises.
